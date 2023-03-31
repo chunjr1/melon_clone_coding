@@ -1,1 +1,4 @@
-# melon_clone_coding
+# Melon Clone Coding
+
+## 목표 (Object)
+- test
